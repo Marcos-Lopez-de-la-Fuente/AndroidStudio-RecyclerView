@@ -1,0 +1,9 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äì¤Ó
+~
+java:S1450"cRemove the "floatingActionButton" field and declare it as a local variable in the relevant methods.(¨”†úÿÿÿÿ
+m
+java:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(ŸĞÜÃ
+w
+java:S1450"\Remove the "mRecyclerView" field and declare it as a local variable in the relevant methods.(Òéıÿÿÿÿ
